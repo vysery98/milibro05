@@ -1,5 +1,8 @@
-Content in Jupyter Book
+Asignaturas de la carrera de Computación
 =======================
 
-There are many ways to write content in Jupyter Book. This short section
-covers a few tips for how to do so.
+Listado de las asignaturas de la carrera de Ingeniería en Ciencias de la Computación de la Universidad Técnica Particular de Loja.
+
+> - **Modalidad**: Presencial
+> - **Título que otorga**: Ingeniero/a en Ciencias de la Computación
+> - **Duración**: 4 años y medio
